@@ -6,14 +6,17 @@ Step 1 - Create the User Interface (UI) with Tkinter
 my_image = PhotoImage(file="path/to/image_file.png")
 button = Button(image=my_image, highlightthickness=0)
 
-3. Here are some hints for the fonts, measurements and positioning.
+![alt text](https://github.com/distareza/learnpython-day31-flash-card-project/blob/master/images/instruction-step-01.01.png)
 
+3. Here are some hints for the fonts, measurements and positioning.
+![alt text](https://github.com/distareza/learnpython-day31-flash-card-project/blob/master/images/instruction-step-01.02.png)
 
 HINTS:
 
 1. You will need a 2 X 2 grid, with the flash card taking up 2 columns.
 
 2. The flash card is a Canvas with 1 image and 2 pieces of text.
+![alt text](https://github.com/distareza/learnpython-day31-flash-card-project/blob/master/images/instruction-step-02.gif)
 
 3. The image is card_front.png, created from the PhotoImage class. Be careful about the full image path as the image is inside the image folder.
 
@@ -24,7 +27,7 @@ Step 2 - Create New Flash Cards
 
 2. Pick a random French word/translation and put the word into the flashcard. Every time you press the ❌ or ✅ buttons, it should generate a new random word to display. e.g.
 
-
+![alt text](https://github.com/distareza/learnpython-day31-flash-card-project/blob/master/images/instruction-step-03.gif)
 
 
 HINT:
@@ -46,7 +49,7 @@ Step 3 - Flip the Cards!
 
 e.g.
 
-
+![alt text](https://github.com/distareza/learnpython-day31-flash-card-project/blob/master/images/instruction-step-03.gif)
 
 
 HINTS:
@@ -90,6 +93,7 @@ We want our flashcard program to only test us on things we don't know. So if the
 
 e.g.
 
+![alt text](https://github.com/distareza/learnpython-day31-flash-card-project/blob/master/images/instruction-step-04.gif)
 
 HINTS:
 
